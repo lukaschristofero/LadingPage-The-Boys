@@ -1,5 +1,5 @@
 # TheBoys
-Landing Page The Boys by Lukas com auxilio do Dev Envolvente.
+Landing Page The Boys by Lukas
 <br/>
 Usando HTML e CSS apenas!
 <br/>
